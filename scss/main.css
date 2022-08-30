@@ -1,1 +1,11 @@
 /*# sourceMappingURL=main.css.map */
+
+.hero {
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.hero h1{
+    padding: 2em;
+}
